@@ -20,7 +20,7 @@
     "google-closure-compiler": "^20171112.0.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
-    "gulp-eslint": "^4.0.0",
+    "gulp-eslint": "^4.0.1",
     "gulp-if": "^2.0.1",
     "gulp-replace": "^0.6.1",
     "gulp-size": "^2.1.0",
@@ -29,9 +29,9 @@
     "merge-stream": "^1.0.1",
     "parse5": "^3.0.3",
     "polymer-build": "^2.1.1",
-    "run-sequence": "^2.2.0",
+    "run-sequence": "^2.2.1",
     "through2": "^2.0.0",
-    "web-component-tester": "^6.4.1"
+    "web-component-tester": "^6.4.3"
   },
   "scripts": {
     "build": "gulp",
